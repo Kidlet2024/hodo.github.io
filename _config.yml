@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Screenshot 2026-03-30 110935.png"
   name             : "Postdoc"
   pronouns         : # example: "she/her"  
   bio              : "Work at ETS"
@@ -33,7 +33,7 @@ author:
   email            : "none@example.org" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "linkedin.com/in/hongwen-dou"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
